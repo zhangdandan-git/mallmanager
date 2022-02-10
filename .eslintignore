@@ -1,0 +1,5 @@
+//把不想去检查代码的目录放到.eslintignore中
+/build/
+/config/
+/dist/
+/*.js
